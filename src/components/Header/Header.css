@@ -3,6 +3,7 @@
     align-items:center;
     justify-content:space-between;
     padding: 20px;
+    background-color: rgb(255, 255, 255);
 }
 .header-logo{
     height:25px;
