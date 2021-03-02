@@ -1,0 +1,22 @@
+.sidebar-row{
+    display:flex;
+    align-items:center;
+    padding: 10px 30px;
+}
+.sidebar-row:hover{
+    background-color:rgb(233, 233, 233);
+}
+
+.sidebarRow-icon{
+    color: #606060;
+    font-size:large !important;
+}
+.sidebar-row > .sidebarRow-icon:hover{
+    color: red;
+}
+.sidebarRow-title{
+    
+    margin-left: 20px;
+    font-size:16px;
+    font-weight:500;
+}

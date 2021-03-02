@@ -11,7 +11,7 @@ import Avatar from '@material-ui/core/Avatar';
 const Header = () => {
     return (
         <div className="header">
-            <div className="header left">
+            <div className="header-left">
                 <MenuSharpIcon></MenuSharpIcon>
                 <img
                 className="header-logo"
